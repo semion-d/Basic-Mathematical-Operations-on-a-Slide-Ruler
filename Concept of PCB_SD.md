@@ -27,7 +27,10 @@ board even smaller.
 
 Electronic components are attached to the printed circuit board (PCB) using conductive
 connections. Some components are mounted through holes drilled into the board. This
-method is called through-hole mounting. Other components are placed directly on the
-PCB surface and are known as surface-mount components (SMD). The latter allows for
+method is called through-hole mounting. 
+
+![Through Hole Mounting](https://github.com/semion-d/Basic-Mathematical-Operations-on-a-Slide-Ruler/blob/2cb8ae7018f67a088353185ef6a690c5bd440c2f/Through%20-%20Hole%20-%20M.jpg)
+
+Other components are placed directly on the PCB surface and are known as surface-mount components (SMD). The latter allows for
 the mounting of very small components, making the board even more compact, which is
 very important for most modern electrical devices.
