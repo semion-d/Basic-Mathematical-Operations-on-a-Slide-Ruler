@@ -34,3 +34,5 @@ method is called through-hole mounting.
 Other components are placed directly on the PCB surface and are known as surface-mount components (SMD). The latter allows for
 the mounting of very small components, making the board even more compact, which is
 very important for most modern electrical devices.
+
+![SMD Mounting](https://github.com/semion-d/Basic-Mathematical-Operations-on-a-Slide-Ruler/blob/42cab91dff284861b3c9625644d9b06850712b95/SMD%20-%20Mounting%20.png)
