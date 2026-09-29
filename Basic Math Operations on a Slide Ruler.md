@@ -39,6 +39,6 @@ Cubic Roots work oppositely: you need to find the needed number on a K scale, al
 
 To find a Log with a base of 10 of a number from 0 to 10, you need to align the cursor with this number and find a corresponding number on an L scale. 
 
-![Finding Logarithms](
+![Finding Logarithms](https://github.com/semion-d/Basic-Mathematical-Operations-on-a-Slide-Ruler/blob/d96b38c851c176660be98f6905f98083d2d80df6/Screenshot%202026-09-28%20at%2012.20.52.png)
 
 To find a Log of a number bigger than 10, for example, 50, on a D scale, you need to find the number 5, find the corresponding number on an L scale, and add 1 to this number, as 50 is a product of 5 and 10, not just 5 and 1. If the number is 500, you need to add 2 to the corresponding number on an L scale. 
