@@ -30,7 +30,7 @@ Finding square root works opposite: you need to find a number on an A scale, ali
 
 To raise a number to the power of 3, you need to align a cursor with your original number on a D scale, then you need to look at a K scale and find a corresponding number. This will be the cube of a number from a D scale.
 
-![Finding Cubes and Cubic Roots](
+![Finding Cubes and Cubic Roots](https://github.com/semion-d/Basic-Mathematical-Operations-on-a-Slide-Ruler/blob/4229ea904ed2fcf2a314cc67f8c75bfbfe788722/Screenshot%202026-09-28%20at%2012.20.24.png)
 
 Cubic Roots work oppositely: you need to find the needed number on a K scale, align it with a cursor, and search for a corresponding number on a D scale; this will be a Cubic Root of a number from a K scale.  
 
