@@ -4,7 +4,7 @@ The slide rule consists of a body (the stationary part), a slider (the middle ru
 
 On a Slide Ruler you can see different scales, and each of them has a name. 
 
-*pic
+[Name](Screenshot 2026-09-28 at 12.01.04.png)
 
 We will not talk about scales S C_1 and T, as they are not common for other slide rulers, which does not align with a goal of this essay, to show basic principles of using a slide ruler, which you can apply later to most of the rulers. 
 
