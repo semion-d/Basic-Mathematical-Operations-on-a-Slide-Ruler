@@ -21,7 +21,7 @@ Division works oppositely; on a D scale, you need to find a number that you want
 
 To raise a number to a power of 2, you need to find a number on a D scale and align a cursor with this number; then you need to look on an A scale and find a corresponding number. This will be the square of the number that you chose on a D scale.
 
-![Finding Squares and Square Roots](
+![Finding Squares and Square Roots](https://github.com/semion-d/Basic-Mathematical-Operations-on-a-Slide-Ruler/blob/2d5520a594002525ef50d6c6f94c3955d56a0b62/Screenshot%202026-09-28%20at%2012.18.24.png)
 
 Finding square root works opposite: you need to find a number on an A scale, align it with a cursor, and see the corresponding number on a D scale; this will be the square root of a number from an A scale. 
 
