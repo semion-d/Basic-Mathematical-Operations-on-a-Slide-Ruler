@@ -12,7 +12,7 @@ We will not talk about scales S C_1 and T, as they are not common for other slid
 
 In order to multiply one number by another, you need to move a slider; the goal is to align number 1 on a slider scale (B or C) with a number that you need to multiply on an A or D scale. Then, coming back to the C scale, you need to align a cursor with a number that you want to multiply by, and look perpendicularly down at a D scale; this will be a product of 2 numbers.
 
-*pic
+![Fig](https://github.com/semion-d/Basic-Mathematical-Operations-on-a-Slide-Ruler/blob/5724c5d930c917031ec190d8ee4ac938bb07a494/Screenshot%202026-09-28%20at%2012.11.23.png)
 
 Division works oppositely; on a D scale, you need to find a number that you want to divide, then on a C scale you need to find a number that u want to divide by and move a slider in a way that will align these 2 numbers. Then what is left is that you need to look at number 1 on a C scale and find a corresponding number on a D scale.
 
