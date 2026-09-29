@@ -4,7 +4,11 @@ A printed circuit board (PCB) is a structure that connects and supports electron
 components. This simple-looking structure provides physical support for components
 and creates electrical connections between them, allowing complex electrical circuits to
 be organized into a compact system (compared to traditional wired connections).
-Basically, a PCB consists of several layers of materials.
+
+![PCB](https://github.com/semion-d/Basic-Mathematical-Operations-on-a-Slide-Ruler/blob/fd5f7e4da1df5cbdcefa13f51aeed0010d075ff5/PCB_Blower_front.png)
+
+
+## Basically, a PCB consists of several layers of materials.
 
 1. Top Silkscreen
 2. Top Solder Mask
